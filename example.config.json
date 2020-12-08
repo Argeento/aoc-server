@@ -1,0 +1,12 @@
+{
+  "port": 3000,
+  "sessionId": "Your sessionId from cookies in adventofcode.com domain",
+  "leadboards": [
+    {
+      "id": "leadboard id",
+      "year": 2020,
+      "cors": ["domains that can access your api"],
+      "endpoint": "/endpoint-in-your-server"
+    }
+  ]
+}
