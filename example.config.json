@@ -5,7 +5,7 @@
     {
       "id": "leadboard id",
       "year": 2020,
-      "cors": ["domains that can access your api"],
+      "cors": "origin",
       "endpoint": "/endpoint-in-your-server"
     }
   ]
